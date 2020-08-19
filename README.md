@@ -1,7 +1,7 @@
 
 # Eduardo Rodrigues ϟ
 
-[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Rodrigues-1d62e0?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-155ba81a8/)]([https://www.linkedin.com/in/eduardo-rodrigues-155ba81a8/) [![iCloud Badge](https://img.shields.io/badge/-eduardorodrigues011@icloud.com-4d97ff?style=flat-square&logo=iCloud&logoColor=white&link=mailto:eduardorodrigues011@icloud.com)](mailto:eduardorodrigues011@icloud.com)
+[![Linkedin Badge](https://img.shields.io/badge/-Eduardo%20Rodrigues-ff0042?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/eduardo-rodrigues-155ba81a8/)]([https://www.linkedin.com/in/eduardo-rodrigues-155ba81a8/) [![iCloud Badge](https://img.shields.io/badge/-eduardorodrigues011@icloud.com-ff0042?style=flat-square&logo=iCloud&logoColor=white&link=mailto:eduardorodrigues011@icloud.com)](mailto:eduardorodrigues011@icloud.com)
 
 Desenvolvedor Back-end ( Node.js ) Júnior, com conhecimentos em Front-end.
 
