@@ -5,7 +5,17 @@
 
 Desenvolvedor Back-end ( Node.js ) Júnior, com conhecimentos em Front-end.
 
-Cursando Sistema da Informação no IFMA - Monte Castelo, sempre trabalhando em novas ideias e estudando novas tecnologias.
+Tecnologias:
+- Node.js
+- Nest.js
+- Typescript
+- React
+- Next.js
+- Prisma
+- Redis
+- Kubernets
+- RabbitMQ
+- Docker
 
 
-Hobby em fazer BOT para o Discord.
+Hobby (que acabou virando trabalho) em fazer BOT para o Discord.
